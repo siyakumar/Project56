@@ -1,7 +1,25 @@
-h1{
+body {
     text-align: center;
-    color: forestgreen;
+    background-color: #f0e8c5;
 }
-image{
-    height: 400px;
+
+div {
+    margin-top: 15px;
 }
+
+.image-section {
+    display: flex;
+    justify-content: center;
+
+}
+
+.section-style {
+    margin-right: 25px;
+    margin-left: 25px;
+    background-color: white;
+}
+
+img {
+    width: 500px;
+}
+
